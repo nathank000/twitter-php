@@ -1,3 +1,4 @@
 <?php
-	echo('working');
+	echo('working<br />');
+	echo('with a second line');
 ?>
